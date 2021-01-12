@@ -20,7 +20,7 @@
     </entry>
     <entry>
         <id>http://example.com/2021/01/10/hello-world/</id>
-        <title>置顶文章</title>
+        <title>Hello</title>
         <link rel="alternate" href="http://example.com/2021/01/10/hello-world/"/>
         <content type="html">&lt;hr /&gt;
 &lt;h2 id=&#34;titlehello&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#titlehello&#34;&gt;#&lt;/a&gt; title:Hello&lt;/h2&gt;
