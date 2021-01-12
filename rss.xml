@@ -3,8 +3,8 @@
     <channel>
         <title>WE</title>
         <subtitle></subtitle>
-        <icon>http://example.com/images/favicon.ico</icon>
-        <link>http://example.com</link>
+        <icon>https://2memos.xyz/images/favicon.ico</icon>
+        <link>https://2memos.xyz</link>
         <author>
           <name>Kumu</name>
         </author>
@@ -13,18 +13,18 @@
         <pubDate>Tue, 12 Jan 2021 11:39:18 +0800</pubDate>
         <lastBuildDate>Tue, 12 Jan 2021 11:39:18 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2021/01/12/17/</guid>
+            <guid isPermalink="true">https://2memos.xyz/2021/01/12/17/</guid>
             <title>7me6er</title>
-            <link>http://example.com/2021/01/12/17/</link>
+            <link>https://2memos.xyz/2021/01/12/17/</link>
             <pubDate>Tue, 12 Jan 2021 11:39:18 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;17&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#17&#34;&gt;#&lt;/a&gt; 17&lt;/h1&gt;
 &lt;p&gt;&amp;lt;iframe frameborder=&amp;quot;no&amp;quot; border=&amp;quot;0&amp;quot; marginwidth=&amp;quot;0&amp;quot; marginheight=&amp;quot;0&amp;quot; width=510 height=300 src=&amp;quot;&lt;a href=&#34;//music.163.com/outchain/player?type=2&amp;amp;id=1500788926&amp;amp;auto=1&amp;amp;height=66&#34;&gt;//music.163.com/outchain/player?type=2&amp;amp;id=1500788926&amp;amp;auto=1&amp;amp;height=66&lt;/a&gt;&amp;quot;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://example.com/2021/01/10/hello-world/</guid>
+            <guid isPermalink="true">https://2memos.xyz/2021/01/10/hello-world/</guid>
             <title>Hello</title>
-            <link>http://example.com/2021/01/10/hello-world/</link>
+            <link>https://2memos.xyz/2021/01/10/hello-world/</link>
             <pubDate>Sun, 10 Jan 2021 20:03:25 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
  ]]></description>
