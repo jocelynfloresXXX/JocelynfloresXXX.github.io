@@ -2,7 +2,12 @@
 <rss version="2.0">
     <channel>
         <title>JocelynfloresXXX.github.io</title>
+        <subtitle></subtitle>
+        <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
+        <author>
+          <name>夏志博</name>
+        </author>
         <description></description>
         <language>en</language>
         <pubDate>Sun, 10 Jan 2021 20:03:25 +0800</pubDate>
