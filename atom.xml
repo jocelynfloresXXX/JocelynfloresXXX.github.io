@@ -17,11 +17,12 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;br&gt;
-&amp;lt;font color=#7E7129&amp;gt;1，信息安全：&amp;lt;/font &amp;gt; 通过采用&lt;em&gt;软硬件技术，网络技术，密钥技术&lt;/em&gt;等安全技术和各种组织管理措施，来保护信息在其生命周期内的产生，传输，交换，处理和存储的各个环节中，信息的&lt;em&gt;机密性，完整性和可用性&lt;/em&gt;不被破环。&lt;/p&gt;
+1，信息安全：通过采用&lt;em&gt;&lt;strong&gt;软硬件技术，网络技术，密钥技术&lt;/strong&gt;&lt;/em&gt;等安全技术和各种组织管理措施，来保护信息在其生命周期内的产生，传输，交换，处理和存储的各个环节中，信息的&lt;em&gt;&lt;strong&gt;机密性，完整性和可用性&lt;/strong&gt;&lt;/em&gt;不被破环。&lt;br&gt;
+2，信息安全四个阶段：&lt;em&gt;&lt;strong&gt;1，通信保密阶段。2，计算机安全阶段。3，信息技术安全阶段。4，信息保障阶段。&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+3，信息安全五要素：&lt;em&gt;&lt;strong&gt;保密性，完整性，可用性，可控性，不可否认性。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;br&gt;
-&amp;lt;font color=#7E7129&amp;gt;fsdakflndjsafvsdafsa&amp;lt;/font&amp;gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;第二章数据传输安全&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章数据传输安全&#34;&gt;#&lt;/a&gt; 第二章【数据传输安全】&lt;/h1&gt;
