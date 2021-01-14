@@ -13,7 +13,10 @@
         <id>https://2memos.xyz/2021/01/14/%E6%B7%B1%E4%BF%A1%E6%9C%8DSCSA/</id>
         <title>深信服SCSA</title>
         <link rel="alternate" href="https://2memos.xyz/2021/01/14/%E6%B7%B1%E4%BF%A1%E6%9C%8DSCSA/"/>
-        <content type="html">&lt;h1 id=&#34;第一章信息安全概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章信息安全概念&#34;&gt;#&lt;/a&gt; 第一章【信息安全概念】&lt;/h1&gt;
+        <content type="html">&lt;p&gt;&amp;lt;html&amp;gt;&lt;br&gt;
+&amp;lt;head&amp;gt;&lt;br&gt;
+&amp;lt;title&amp;gt;&amp;lt;/title&amp;gt;&lt;/p&gt;
+&lt;h1 id=&#34;第一章信息安全概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章信息安全概念&#34;&gt;#&lt;/a&gt; 第一章【信息安全概念】&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;br&gt;
@@ -92,7 +95,9 @@
 &lt;h1 id=&#34;第七章网络安全可视&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章网络安全可视&#34;&gt;#&lt;/a&gt; 第七章【网络安全可视】&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;态势感知概述与 SIP 部署：&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;SIP 功能介绍与配置：&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SIP 功能介绍与配置：&lt;/strong&gt;&lt;br&gt;
+&amp;lt;/head&amp;gt;&lt;br&gt;
+&amp;lt;/html&amp;gt;&lt;/li&gt;
 &lt;/ul&gt;
 </content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
