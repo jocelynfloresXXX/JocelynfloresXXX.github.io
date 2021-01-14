@@ -19,7 +19,15 @@
 &lt;p&gt;&lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;br&gt;
 1，信息安全：通过采用&lt;em&gt;&lt;strong&gt;软硬件技术，网络技术，密钥技术&lt;/strong&gt;&lt;/em&gt;等安全技术和各种组织管理措施，来保护信息在其生命周期内的产生，传输，交换，处理和存储的各个环节中，信息的&lt;em&gt;&lt;strong&gt;机密性，完整性和可用性&lt;/strong&gt;&lt;/em&gt;不被破环。&lt;br&gt;
 2，信息安全四个阶段：&lt;em&gt;&lt;strong&gt;1，通信保密阶段。2，计算机安全阶段。3，信息技术安全阶段。4，信息保障阶段。&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
-3，信息安全五要素：&lt;em&gt;&lt;strong&gt;保密性，完整性，可用性，可控性，不可否认性。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+3，信息安全五要素：&lt;em&gt;&lt;strong&gt;保密性，完整性，可用性，可控性，不可否认性。&lt;/strong&gt;&lt;/em&gt;&lt;br&gt;
+4，五要素具体介绍：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;保密性：确保信息不暴露给未授权的实体或进程。目的：即使信息被窃听或者截获，攻击者也无法知晓信息的真实内容，可以对抗网络攻击中的被动攻击。通过加密技术保障信息的保密性。&lt;/li&gt;
+&lt;li&gt;完整性：只有得到允许的人才能修改实体或进程，并且能够判别出实体或进程是否以被修改。完整性鉴别机制，保障只有允许的人才能修改数据，可以防篡改。靠 HASH。&lt;/li&gt;
+&lt;li&gt;可用性：得到授权的实体可获得服务，用访问控制机制，阻止非授权用户进入网络，使静态・信息可见，动态信息可操作，防止业务突然中断。&lt;/li&gt;
+&lt;li&gt;可控性：对信息进行监视审查，实现对网络资源及信息的可控性。&lt;/li&gt;
+&lt;li&gt;不可否认性：对出现的安全问题提供调查的依据和手段，使用审计，监控，防抵赖等安全机制，实现信息安全法的可审查性。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;/p&gt;
