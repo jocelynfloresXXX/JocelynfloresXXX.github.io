@@ -34,6 +34,34 @@
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/15/s0woxH.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;8，常见的网络安全术语：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/15/s00AoV.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;9，网络的基本攻击模式：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssQqcq.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;10，网络的基本攻击模式有：&lt;br&gt;
+- 1，物理攻击：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ss1MoF.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 2，流量型攻击有：(1)，网络层攻击，(2)，应用层攻击。
+- 2.1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ss1yQI.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 3，单包攻击有：(1)，畸形报文攻击，(2)，特殊报文攻击，(3)，扫描窥探攻击。
+- 3.1单包攻击是：
+- 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ss8lvR.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;- 3.2单包攻击的种类：
+- 
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ss8xMR.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;11，地址扫描攻击防范：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssJKXR.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;12 端口扫描攻击防范：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssJIEV.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;13，SMURF 攻击防范：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssYp4O.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;14，LAND 攻击防范：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssYlvj.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;p&gt;11，一个完整的网络攻击链：&lt;br&gt;
+- 情报收集 —— 工具准备 —— 载荷投递 —— 漏洞利用 —— 释放载荷 —— 建立通道 —— 目标达成。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
