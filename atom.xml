@@ -8,7 +8,25 @@
     <author>
       <name>Kumu</name>
     </author>
-    <updated>2021-01-14T12:46:30.884Z</updated>
+    <updated>2021-01-18T11:36:46.777Z</updated>
+    <entry>
+        <id>https://2memos.xyz/2021/01/18/Python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E7%BA%A7/</id>
+        <title>Python爬虫入门到高级</title>
+        <link rel="alternate" href="https://2memos.xyz/2021/01/18/Python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E7%BA%A7/"/>
+        <content type="html"></content>
+        <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="爬虫" scheme="https://2memos.xyz/tags/%E7%88%AC%E8%99%AB/" />
+        <updated>2021-01-18T11:36:46.777Z</updated>
+    </entry>
+    <entry>
+        <id>https://2memos.xyz/2021/01/18/Python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/</id>
+        <title>Python高级编程</title>
+        <link rel="alternate" href="https://2memos.xyz/2021/01/18/Python%E9%AB%98%E7%BA%A7%E7%BC%96%E7%A8%8B/"/>
+        <content type="html"></content>
+        <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="Python" scheme="https://2memos.xyz/tags/Python/" />
+        <updated>2021-01-18T11:34:34.882Z</updated>
+    </entry>
     <entry>
         <id>https://2memos.xyz/2021/01/14/%E6%B7%B1%E4%BF%A1%E6%9C%8DSCSA/</id>
         <title>深信服SCSA</title>
