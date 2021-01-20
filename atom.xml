@@ -113,17 +113,23 @@
 &lt;p&gt;18，Teardrop (泪滴) 攻击防范：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssUOJK.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;13，WinNuke 攻击防范：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssaYy4.png&#34; alt=&#34;图片&#34;&gt;&lt;br&gt;
-【注】：&lt;br&gt;
-1，URG（紧急位）：设置为 1 时，首部中的紧急指针有效；为 0 时，紧急指针没有意义。&lt;br&gt;
-2，PSH（推位）：当设置为 1 时，要求把数据尽快的交给应用层，不做处理。&lt;br&gt;
-3，通常的数据中都会带有 PSH 但 URG 只在紧急数据的时设置，也称 “带外数据”，解释如下：&lt;br&gt;
-URG 标志设置为 1 时，紧急指针才有效，紧急方式是向对方发送紧急数据的一种方式，表示数据要优先处理。&lt;br&gt;
-URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一字节到指针所指向字节就是紧急数据）不进入&lt;br&gt;
-缓冲区（一般不都是待发送的数据要先进入发送缓存吗) 就直接交个上层进程，&lt;br&gt;
-余下的数据都是要进入接收缓冲的；一般来说 TCP 是要等到整个缓存都填满了后在向上交付，&lt;br&gt;
-但是如果 PSH=1 的话，就不用等到整个缓存都填满，直接交付，&lt;br&gt;
-但是这里的交付仍然是从缓冲区交付的，URG 是不要经过缓冲区的。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/17/ssaYy4.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;参考信息&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;1，URG（紧急位）：设置为 1 时，首部中的紧急指针有效；为 0 时，紧急指针没有意义。&lt;/li&gt;
+&lt;li&gt;2，PSH（推位）：当设置为 1 时，要求把数据尽快的交给应用层，不做处理。&lt;/li&gt;
+&lt;li&gt;3，通常的数据中都会带有 PSH 但 URG 只在紧急数据的时设置，也称 “带外数据”，解释如下：&lt;/li&gt;
+&lt;li&gt;URG 标志设置为 1 时，紧急指针才有效，紧急方式是向对方发送紧急数据的一种方式，表示数据要优先处理。&lt;/li&gt;
+&lt;li&gt;URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一字节到指针所指向字节就是紧急数据）不进入&lt;/li&gt;
+&lt;li&gt;缓冲区（一般不都是待发送的数据要先进入发送缓存吗) 就直接交个上层进程，&lt;/li&gt;
+&lt;li&gt;余下的数据都是要进入接收缓冲的；一般来说 TCP 是要等到整个缓存都填满了后在向上交付，&lt;/li&gt;
+&lt;li&gt;但是如果 PSH=1 的话，就不用等到整个缓存都填满，直接交付，&lt;/li&gt;
+&lt;li&gt;但是这里的交付仍然是从缓冲区交付的，URG 是不要经过缓冲区的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;14，超大 ICMP 报文攻击防范：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sRH7h4.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;15，ICMP 重定向与不可达攻击防范：&lt;/p&gt;
@@ -165,17 +171,18 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
 &lt;/div&gt;&lt;/details&gt;
 &lt;p&gt;17，URPF 技术：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sWaJaD.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
-&lt;p&gt;:::pushpin&lt;br&gt;
- 提示提示&lt;br&gt;
-:::&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;参考信息&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;1，严格模式： 数据包必须和路由器的路由表中的出接口一一对应，1 号口进 1 号口出。&lt;/li&gt;
 &lt;li&gt;2，松散模式：如果是默认路由，由于没有公网的路由表，主要匹配到默认路由 1 号口就行。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;:::pushpin&lt;br&gt;
- 提示提示&lt;br&gt;
-:::&lt;/p&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;URPF简介&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;1，基本概念：&lt;/li&gt;
@@ -191,6 +198,9 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
 &lt;li&gt;3，作用：&lt;/li&gt;
 &lt;li&gt;通信网络中，诸如 DoS 攻击、TCP SYN 洪泛攻击、UDP 洪泛攻击和 ICMP 洪泛攻击等，都可能通过借助源地址欺骗的方式攻击目标设备或者主机，造成被攻击者系统性能严重的降低，甚至导致系统崩溃。uRPF 技术就是网络设备为了防范此类攻击而使用的一种常用技术。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p&gt;18，链路层 ——MAC 泛洪攻击&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sWDiHP.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;11，一个完整的网络攻击链：&lt;br&gt;
 - 情报收集 —— 工具准备 —— 载荷投递 —— 漏洞利用 —— 释放载荷 —— 建立通道 —— 目标达成。&lt;/p&gt;
 &lt;ul&gt;
@@ -267,8 +277,6 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
 &lt;li&gt;&lt;strong&gt;态势感知概述与 SIP 部署：&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;SIP 功能介绍与配置：&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/div&gt;&lt;/details&gt;
-&lt;/div&gt;&lt;/details&gt;
 </content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="深信服" scheme="https://2memos.xyz/tags/%E6%B7%B1%E4%BF%A1%E6%9C%8D/" />
