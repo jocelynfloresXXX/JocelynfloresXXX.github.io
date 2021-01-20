@@ -61,9 +61,9 @@
         {
             "id": "https://2memos.xyz/2021/01/10/hello-world/",
             "url": "https://2memos.xyz/2021/01/10/hello-world/",
-            "title": "Hello",
+            "title": "Welcome",
             "date_published": "2021-01-10T12:03:25.104Z",
-            "content_html": "<p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=\">GitHub</span>.</p>\n",
+            "content_html": "<link rel=\"stylesheet\" class=\"aplayer-secondary-style-marker\" href=\"\\assets\\css\\APlayer.min.css\"><script src=\"\\assets\\js\\APlayer.min.js\" class=\"aplayer-secondary-script-marker\"></script><p>Welcome to <span class=\"exturl\" data-url=\"aHR0cHM6Ly9oZXhvLmlvLw==\">Hexo</span>! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on <span class=\"exturl\" data-url=\"aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=\">GitHub</span>.</p>\n",
             "tags": []
         }
     ]

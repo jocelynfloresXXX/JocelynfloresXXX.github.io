@@ -337,10 +337,10 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
         </item>
         <item>
             <guid isPermalink="true">https://2memos.xyz/2021/01/10/hello-world/</guid>
-            <title>Hello</title>
+            <title>Welcome</title>
             <link>https://2memos.xyz/2021/01/10/hello-world/</link>
             <pubDate>Sun, 10 Jan 2021 20:03:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
+            <description><![CDATA[ &lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
