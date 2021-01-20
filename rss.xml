@@ -134,7 +134,10 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sRH7h4.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;15，ICMP 重定向与不可达攻击防范：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sRqeMR.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
-&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;==参考信息==&lt;/summary&gt;&lt;div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;参考信息&lt;/summary&gt;&lt;div&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;参考信息&lt;/p&gt;
 &lt;/div&gt;
@@ -147,7 +150,10 @@ URG=1，表示紧急指针指向包内数据段的某个字节（数据从第一
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sW3GyF.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;p&gt;16，Tracert 报文攻击防范：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sW3HmQ.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
-&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;==参考信息==&lt;/summary&gt;&lt;div&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;参考信息&lt;/summary&gt;&lt;div&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;参考信息&lt;/p&gt;
 &lt;/div&gt;
