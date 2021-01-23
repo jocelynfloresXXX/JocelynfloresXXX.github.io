@@ -451,9 +451,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
         <title>深信服SCSA</title>
         <link rel="alternate" href="https://2memos.xyz/2021/01/14/%E6%B7%B1%E4%BF%A1%E6%9C%8DSCSA/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;第一章信息安全概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章信息安全概念&#34;&gt;#&lt;/a&gt; 第一章【信息安全概念】&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;安全概念与网络层攻击&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全概念与网络层攻击&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;1，信息安全：通过采用&lt;em&gt;&lt;strong&gt;软硬件技术，网络技术，密钥技术&lt;/strong&gt;&lt;/em&gt;等安全技术和各种组织管理措施，来保护信息在其生命周期内的产生，传输，交换，处理和存储的各个环节中，信息的&lt;em&gt;&lt;strong&gt;机密性，完整性和可用性&lt;/strong&gt;&lt;/em&gt;不被破环。&lt;/p&gt;
 &lt;p&gt;2，信息安全四个阶段：&lt;em&gt;&lt;strong&gt;1，通信保密阶段。2，计算机安全阶段。3，信息技术安全阶段。4，信息保障阶段。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;3，信息安全五要素：&lt;em&gt;&lt;strong&gt;保密性，完整性，可用性，可控性，不可否认性。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -592,9 +590,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;应用层攻击防护&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#应用层攻击防护&#34;&gt;#&lt;/a&gt; &lt;strong&gt;应用层攻击防护：&lt;/strong&gt;&lt;/h2&gt;
 &lt;p class=&#34;red&#34;&gt;1，URPF 技术：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/20/sWaJaD.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
@@ -701,9 +697,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;li&gt;RDP 远程服务器等连接尽量使用强密码。&lt;/li&gt;
 &lt;li&gt;安装专业的防病毒软件，定期检查。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;整体安全解决方案&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;h2 id=&#34;整体安全解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#整体安全解决方案&#34;&gt;#&lt;/a&gt; &lt;strong&gt;整体安全解决方案&lt;/strong&gt;&lt;/h2&gt;
 &lt;p class=&#34;red&#34;&gt;1，企业信息安全建设规划目标：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;提示提示&lt;/p&gt;
