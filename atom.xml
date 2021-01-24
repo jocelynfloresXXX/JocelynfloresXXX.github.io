@@ -451,6 +451,14 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
         <title>深信服SCSA</title>
         <link rel="alternate" href="https://2memos.xyz/2021/01/14/%E6%B7%B1%E4%BF%A1%E6%9C%8DSCSA/"/>
         <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;第一章信息安全概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章信息安全概念&#34;&gt;#&lt;/a&gt; 第一章【信息安全概念】&lt;/h1&gt;
+&lt;h1 id&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
+&lt;h2 id=&#34;写在前面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写在前面&#34;&gt;#&lt;/a&gt; 写在前面&lt;/h2&gt;
+&lt;div class=&#34;note success&#34;&gt;
+&lt;p&gt;提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;第一章关于伦理基础，只是截屏概括。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;安全概念与网络层攻击&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全概念与网络层攻击&#34;&gt;#&lt;/a&gt; &lt;strong&gt;安全概念与网络层攻击：&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;1，信息安全：通过采用&lt;em&gt;&lt;strong&gt;软硬件技术，网络技术，密钥技术&lt;/strong&gt;&lt;/em&gt;等安全技术和各种组织管理措施，来保护信息在其生命周期内的产生，传输，交换，处理和存储的各个环节中，信息的&lt;em&gt;&lt;strong&gt;机密性，完整性和可用性&lt;/strong&gt;&lt;/em&gt;不被破环。&lt;/p&gt;
 &lt;p&gt;2，信息安全四个阶段：&lt;em&gt;&lt;strong&gt;1，通信保密阶段。2，计算机安全阶段。3，信息技术安全阶段。4，信息保障阶段。&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -740,10 +748,10 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;p class=&#34;red&#34;&gt;13，网络安全拓扑参考：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/01/23/sTW9k8.png&#34; alt=&#34;图片&#34;&gt;&lt;/p&gt;
 &lt;h1 id=&#34;第二章数据传输安全&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章数据传输安全&#34;&gt;#&lt;/a&gt; 第二章【数据传输安全】&lt;/h1&gt;
-&lt;h2 id=&#34;vpn技术概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn技术概念&#34;&gt;#&lt;/a&gt; &lt;strong&gt;VPN 技术概念：&lt;/strong&gt;&lt;/h2&gt;
-&lt;h3 id=&#34;vpn需求背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn需求背景&#34;&gt;#&lt;/a&gt; VPN 需求背景&lt;/h3&gt;
-&lt;h3 id=&#34;vpn分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn分类&#34;&gt;#&lt;/a&gt; VPN 分类&lt;/h3&gt;
-&lt;h3 id=&#34;vpn常用技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn常用技术&#34;&gt;#&lt;/a&gt; VPN 常用技术&lt;/h3&gt;
+&lt;h2 id=&#34;vpn技术概念red&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn技术概念red&#34;&gt;#&lt;/a&gt; &lt;strong&gt;VPN 技术概念：{.red}&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 class=&#34;red&#34; id=&#34;vpn需求背景&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn需求背景&#34;&gt;#&lt;/a&gt; VPN 需求背景&lt;/h3&gt;
+&lt;h3 class=&#34;red&#34; id=&#34;vpn分类&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn分类&#34;&gt;#&lt;/a&gt; VPN 分类&lt;/h3&gt;
+&lt;h3 class=&#34;red&#34; id=&#34;vpn常用技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn常用技术&#34;&gt;#&lt;/a&gt; VPN 常用技术&lt;/h3&gt;
 &lt;h2 id=&#34;ipsec协议详解&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ipsec协议详解&#34;&gt;#&lt;/a&gt; &lt;strong&gt;IPSec 协议详解：&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;ipsec-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ipsec-vpn解决方案&#34;&gt;#&lt;/a&gt; &lt;strong&gt;IPSec VPN 解决方案：&lt;/strong&gt;&lt;/h2&gt;
 &lt;h2 id=&#34;sangfor-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#sangfor-vpn解决方案&#34;&gt;#&lt;/a&gt; &lt;strong&gt;SANGFOR VPN 解决方案：&lt;/strong&gt;&lt;/h2&gt;
