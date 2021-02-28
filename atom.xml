@@ -444,7 +444,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;li&gt;&lt;strong&gt;爬虫的两个概念&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;1，通用爬虫&lt;/p&gt;
+&lt;p&gt;通用爬虫&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;1，有：&lt;/li&gt;
@@ -459,7 +459,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;li&gt;设置友情链接&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;2，聚焦爬虫&lt;/p&gt;
+&lt;p&gt;聚焦爬虫&lt;/p&gt;
 &lt;/div&gt;
 </content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
