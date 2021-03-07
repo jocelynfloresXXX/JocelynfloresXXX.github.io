@@ -34,9 +34,6 @@
         <title>HCIA-Routing &amp; Switching</title>
         <link rel="alternate" href="https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/"/>
         <content type="html">&lt;h1 id=&#34;第一章传输介质简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章传输介质简介&#34;&gt;#&lt;/a&gt; 第一章【传输介质简介】&lt;/h1&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;提示提示&lt;/p&gt;
-&lt;/div&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;前言&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
 &lt;li&gt;通信网络除了包含通信设备本身之外，还包含连接这些设备的传输介质，如，同轴电缆，双绞线和光纤等。不同的传输介质具有不同的特性，这些特性直接影响到通信的诸多方面，如，线路编码方式，传输速度和传输距离等。&lt;/li&gt;
@@ -52,9 +49,9 @@
 &lt;li&gt;上图，两个终端，用一条能够承载数据传输的物理介质 (也称传输介质) 连接起来，就组成了一个简单网络。&lt;/li&gt;
 &lt;li&gt;[2] 终端相互传递信息和资源共享的需求是网络产生的主要原因。&lt;/li&gt;
 &lt;li&gt;[3] 终端可以产生，发送和接收数据，网络是终端建立通信的媒介，终端通过网络建立连接，用来传输数据的载体称为介质，网络可以使用各种介质进行数据传送，包括物理线缆，无线电波等。&lt;/li&gt;
-&lt;li class=&#34;red&#34;&gt;[4] 网络就是通过介质把终端互联而成的一个规模大，功能强的系统，从而使得众多的终端可以方便地互相传递信息，共享信息资源。&lt;br&gt;
-2，介质 —— 同轴电缆：&lt;/li&gt;
+&lt;li&gt;[4] 网络就是通过介质把终端互联而成的一个规模大，功能强的系统，从而使得众多的终端可以方便地互相传递信息，共享信息资源。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p class=&#34;red&#34;&gt;2，介质 —— 同轴电缆：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
@@ -63,9 +60,9 @@
 &lt;li&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/03/07/6MYMQA.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
 &lt;li&gt;[2] 同轴电缆是一种早期使用的传输介质，同轴电缆的标准分为两种，10BASE2 和 10BASE5. 这两种标准都支持 10Mbps 的传输数据，最长传输距离分别为 184m 和 500m 一般情况下，10BASE2 同轴电缆使用 BNC 接头，10BASE5 使用 N 型接头。&lt;/li&gt;
 &lt;li&gt;[3] 10BASE5 和 10BASE2 是早期的两种以太网标准，它们均采用同轴电缆作为传输介质。10BASE5 和 10BASE2 所使用的同轴电缆的直径分别为 9.5mm 和 5mm，所以前者又称为粗电缆，后者又称为细电缆。&lt;/li&gt;
-&lt;li class=&#34;red&#34;&gt;[4] 现在 10Mbps 的传输速率早已不满足目前企业网络的需求，因此同轴电缆在目前企业网络中很少应用。&lt;br&gt;
-3，介质 —— 交叉线：&lt;/li&gt;
+&lt;li&gt;[4] 现在 10Mbps 的传输速率早已不满足目前企业网络的需求，因此同轴电缆在目前企业网络中很少应用。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p class=&#34;red&#34;&gt;3，介质 —— 交叉线：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
@@ -79,9 +76,9 @@
 &lt;li&gt;[6] 双绞线使用 RJ-45 接头连接网络设备，为了保证终端能够正常收发数据，RJ-45 的针脚必须按照一定的线序排列。&lt;/li&gt;
 &lt;li&gt;[7] 排序：&lt;/li&gt;
 &lt;li&gt;568A 排线顺序：绿白，绿，橙白，蓝，蓝白，橙，棕白，棕。&lt;/li&gt;
-&lt;li class=&#34;red&#34;&gt;568B 排线顺序：橙白，橙，绿白，蓝，蓝白，绿，棕白，棕。&lt;br&gt;
-4，介质 —— 光纤：&lt;/li&gt;
+&lt;li&gt;568B 排线顺序：橙白，橙，绿白，蓝，蓝白，绿，棕白，棕。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p class=&#34;red&#34;&gt;4，介质 —— 光纤：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
@@ -93,14 +90,17 @@
 &lt;li&gt;[4] 根据光纤传输光信号模式的不同，光纤又可以分为单模光纤和多模光纤。&lt;/li&gt;
 &lt;li&gt;[5] 单模光纤只能传输一种模式的光，不存在膜间色散，因此适用于长距离高速传输。&lt;/li&gt;
 &lt;li&gt;[6] 多模光纤允许不同模式的光在一根光纤上传输，由于膜间色散较大而导致信号脉冲展宽严重，因此多模光纤主要用于局域网中短距离传输。&lt;/li&gt;
-&lt;li class=&#34;red&#34;&gt;[7] 光纤连接器种类很多，常用的连接器包括 ST，FC，SC，LC 连接器。&lt;br&gt;
-5，介质 —— 串口电缆：&lt;/li&gt;
+&lt;li&gt;[7] 光纤连接器种类很多，常用的连接器包括 ST，FC，SC，LC 连接器。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p class=&#34;red&#34;&gt;5，介质 —— 串口电缆：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;[1] 如图：&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/03/07/6M2cb8.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
+&lt;li&gt;[2] 网络通信中常常会用到各种各样的串口电缆，常用的串口电缆标准为 RS-232，同时也是推荐的标准。但是 RS-232 的传输速率有限，传输距离仅为 6m。&lt;/li&gt;
+&lt;li&gt;[3]&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;第二章以太网帧结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章以太网帧结构&#34;&gt;#&lt;/a&gt; 第二章【以太网帧结构】&lt;/h1&gt;
 &lt;h1 id=&#34;第三章ip编址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章ip编址&#34;&gt;#&lt;/a&gt; 第三章【IP 编址】&lt;/h1&gt;
