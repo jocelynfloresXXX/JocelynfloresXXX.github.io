@@ -13,7 +13,18 @@
         <id>https://2memos.xyz/2021/03/07/IPv6%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E8%BF%87%E6%B8%A1%E4%B8%8E%E9%83%A8%E7%BD%B2/</id>
         <title>IPv6网络基础、安全、过渡与部署</title>
         <link rel="alternate" href="https://2memos.xyz/2021/03/07/IPv6%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E8%BF%87%E6%B8%A1%E4%B8%8E%E9%83%A8%E7%BD%B2/"/>
-        <content type="html"></content>
+        <content type="html">&lt;h1 id=&#34;第一章ipv6基础知识&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章ipv6基础知识&#34;&gt;#&lt;/a&gt; 第一章【IPv6 基础知识】&lt;/h1&gt;
+&lt;h1 id=&#34;第二章ipv6协议首部结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章ipv6协议首部结构&#34;&gt;#&lt;/a&gt; 第二章【IPv6 协议首部结构】&lt;/h1&gt;
+&lt;h1 id=&#34;第三章ipv6地址结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章ipv6地址结构&#34;&gt;#&lt;/a&gt; 第三章【IPv6 地址结构】&lt;/h1&gt;
+&lt;h1 id=&#34;第四章icmpv6协议和邻居发现协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章icmpv6协议和邻居发现协议&#34;&gt;#&lt;/a&gt; 第四章【ICMPv6 协议和邻居发现协议】&lt;/h1&gt;
+&lt;h1 id=&#34;第五章ipv6路由协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章ipv6路由协议&#34;&gt;#&lt;/a&gt; 第五章【IPv6 路由协议】&lt;/h1&gt;
+&lt;h1 id=&#34;第六章ipv6安全机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章ipv6安全机制&#34;&gt;#&lt;/a&gt; 第六章【IPv6 安全机制】&lt;/h1&gt;
+&lt;h1 id=&#34;第七章移动ipv6技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章移动ipv6技术&#34;&gt;#&lt;/a&gt; 第七章【移动 IPv6 技术】&lt;/h1&gt;
+&lt;h1 id=&#34;第八章ipv6过渡技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章ipv6过渡技术&#34;&gt;#&lt;/a&gt; 第八章【IPv6 过渡技术】&lt;/h1&gt;
+&lt;h1 id=&#34;第九章ipv6网络协议栈应用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第九章ipv6网络协议栈应用&#34;&gt;#&lt;/a&gt; 第九章【IPv6 网络协议栈应用】&lt;/h1&gt;
+&lt;h1 id=&#34;第十章ipv6技术配置实验&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十章ipv6技术配置实验&#34;&gt;#&lt;/a&gt; 第十章【IPv6 技术配置实验】&lt;/h1&gt;
+&lt;h1 id=&#34;第十一章ipv6部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十一章ipv6部署&#34;&gt;#&lt;/a&gt; 第十一章【IPv6 部署】&lt;/h1&gt;
+</content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="IPV6" scheme="https://2memos.xyz/tags/IPV6/" />
         <updated>2021-03-07T11:49:27.621Z</updated>
@@ -22,7 +33,27 @@
         <id>https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/</id>
         <title>HCIA-Routing &amp; Switching</title>
         <link rel="alternate" href="https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;</content>
+        <content type="html">&lt;h1 id=&#34;第一章传输介质简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章传输介质简介&#34;&gt;#&lt;/a&gt; 第一章【传输介质简介】&lt;/h1&gt;
+&lt;h1 id=&#34;第二章以太网帧结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章以太网帧结构&#34;&gt;#&lt;/a&gt; 第二章【以太网帧结构】&lt;/h1&gt;
+&lt;h1 id=&#34;第三章ip编址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章ip编址&#34;&gt;#&lt;/a&gt; 第三章【IP 编址】&lt;/h1&gt;
+&lt;h1 id=&#34;第四章icmp协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章icmp协议&#34;&gt;#&lt;/a&gt; 第四章【ICMP 协议】&lt;/h1&gt;
+&lt;h1 id=&#34;第五章arp协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章arp协议&#34;&gt;#&lt;/a&gt; 第五章【ARP 协议】&lt;/h1&gt;
+&lt;h1 id=&#34;第六章传输层协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章传输层协议&#34;&gt;#&lt;/a&gt; 第六章【传输层协议】&lt;/h1&gt;
+&lt;h1 id=&#34;第七章数据转发过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章数据转发过程&#34;&gt;#&lt;/a&gt; 第七章【数据转发过程】&lt;/h1&gt;
+&lt;h1 id=&#34;第八章vrp基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章vrp基础&#34;&gt;#&lt;/a&gt; 第八章【VRP 基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第九章命令行基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第九章命令行基础&#34;&gt;#&lt;/a&gt; 第九章【命令行基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第十章文件系统基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十章文件系统基础&#34;&gt;#&lt;/a&gt; 第十章【文件系统基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第十一章vrp系统管理&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十一章vrp系统管理&#34;&gt;#&lt;/a&gt; 第十一章【VRP 系统管理】&lt;/h1&gt;
+&lt;h1 id=&#34;第十二章交换网络基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十二章交换网络基础&#34;&gt;#&lt;/a&gt; 第十二章【交换网络基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第十三章stp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十三章stp原理与配置&#34;&gt;#&lt;/a&gt; 第十三章【STP 原理与配置】&lt;/h1&gt;
+&lt;h1 id=&#34;第十四章rstp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十四章rstp原理与配置&#34;&gt;#&lt;/a&gt; 第十四章【RSTP 原理与配置】&lt;/h1&gt;
+&lt;h1 id=&#34;第十五章ip路由基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十五章ip路由基础&#34;&gt;#&lt;/a&gt; 第十五章【IP 路由基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第十六章静态路由基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十六章静态路由基础&#34;&gt;#&lt;/a&gt; 第十六章【静态路由基础】&lt;/h1&gt;
+&lt;h1 id=&#34;第十七章链路状态路由协议ospf&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十七章链路状态路由协议ospf&#34;&gt;#&lt;/a&gt; 第十七章【链路状态路由协议 ——OSPF】&lt;/h1&gt;
+&lt;h1 id=&#34;第十八章dhcp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十八章dhcp原理与配置&#34;&gt;#&lt;/a&gt; 第十八章【DHCP 原理与配置】&lt;/h1&gt;
+&lt;h1 id=&#34;第十九章ftp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十九章ftp原理与配置&#34;&gt;#&lt;/a&gt; 第十九章【FTP 原理与配置】&lt;/h1&gt;
+&lt;h1 id=&#34;第二十章telnet原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二十章telnet原理与配置&#34;&gt;#&lt;/a&gt; 第二十章【Telnet 原理与配置】&lt;/h1&gt;
+</content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
         <updated>2021-03-07T05:52:40.240Z</updated>
