@@ -40,6 +40,35 @@
             <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
             <pubDate>Sun, 07 Mar 2021 13:52:40 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第一章传输介质简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章传输介质简介&#34;&gt;#&lt;/a&gt; 第一章【传输介质简介】&lt;/h1&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;提示提示&lt;/p&gt;
+&lt;/div&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;前言&lt;/summary&gt;&lt;div&gt;
+&lt;ul&gt;
+&lt;li&gt;通信网络除了包含通信设备本身之外，还包含连接这些设备的传输介质，如，同轴电缆，双绞线和光纤等。不同的传输介质具有不同的特性，这些特性直接影响到通信的诸多方面，如，线路编码方式，传输速度和传输距离等。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;&lt;/details&gt;
+&lt;p class=&#34;red&#34;&gt;1，简单网络：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] 如图：&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/03/07/6MGv3d.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
+&lt;li&gt;上图，两个终端，用一条能够承载数据传输的物理介质 (也称传输介质) 连接起来，就组成了一个简单网络。&lt;/li&gt;
+&lt;li&gt;[2] 终端相互传递信息和资源共享的需求是网络产生的主要原因。&lt;/li&gt;
+&lt;li&gt;[3] 终端可以产生，发送和接收数据，网络是终端建立通信的媒介，终端通过网络建立连接，用来传输数据的载体称为介质，网络可以使用各种介质进行数据传送，包括物理线缆，无线电波等。&lt;/li&gt;
+&lt;li class=&#34;red&#34;&gt;[4] 网络就是通过介质把终端互联而成的一个规模大，功能强的系统，从而使得众多的终端可以方便地互相传递信息，共享信息资源。&lt;br&gt;
+2，介质 —— 同轴电缆：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;[1] 简介如图：&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/03/07/6MYMQA.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
+&lt;li&gt;[2] 同轴电缆是一种早期使用的传输介质，同轴电缆的标准分为两种，10BASE2 和 10BASE5. 这两种标准都支持 10Mbps 的传输数据，最长传输距离分别为 184m 和 500m 一般情况下，10BASE2 同轴电缆使用 BNC 接头，10BASE5 使用 N 型接头。&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;第二章以太网帧结构&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二章以太网帧结构&#34;&gt;#&lt;/a&gt; 第二章【以太网帧结构】&lt;/h1&gt;
 &lt;h1 id=&#34;第三章ip编址&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三章ip编址&#34;&gt;#&lt;/a&gt; 第三章【IP 编址】&lt;/h1&gt;
 &lt;h1 id=&#34;第四章icmp协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四章icmp协议&#34;&gt;#&lt;/a&gt; 第四章【ICMP 协议】&lt;/h1&gt;
