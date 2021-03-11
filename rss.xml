@@ -682,7 +682,7 @@
 &lt;li&gt;[2]&lt;ins class=&#34;wavy&#34;&gt; Ping 命令的输出信息中包括目的地址，ICMP 报文长度，序号，TTL 值以及往返时间。&lt;/ins&gt;&lt;/li&gt;
 &lt;li&gt;[3]&lt;ins class=&#34;wavy&#34;&gt; 序号是包含在 Echo 回复消息 (Type=0) 中的可变参数字段，TTL 和往返时间包含在消息的 IP 头中。&lt;/ins&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p class=&#34;wavy&#34;&gt;9，ICMP 应用 - Tracert (1)：&lt;/p&gt;
+&lt;p class=&#34;red&#34;&gt;9，ICMP 应用 - Tracert (1)：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
@@ -699,7 +699,10 @@
 &lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;[1] 如图：&lt;/li&gt;
-&lt;li&gt;&lt;img data-src alt=&#34;图片&#34;&gt;&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;https://s3.ax1x.com/2021/03/11/6YyqHI.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
+&lt;li&gt;[2]&lt;ins class=&#34;wavy&#34;&gt; 注：Type 表示 ICMP 消息类型，Code 表示同一消息类型中的不同信息。&lt;/ins&gt;&lt;/li&gt;
+&lt;li&gt;[3] 上图，源端 (RTA) 向目的端 (主机 B) 发送一个 UDP 报文，TTL 值为 1，目的 UDP 端口号是大于 30000 的一个数，因此在大多数情况下，大于 30000 的 UDP 端口号是任何一个应用程序都不可能使用的端口号。&lt;/li&gt;
+&lt;li&gt;[4] 第一跳 (RTB) 接收到源端发送的 UDP 报文后，判断出报文的目的 IP 地址不是本机 IP 地址，将 TTL 减一后，判断出 TTL 值等于 0，将丢弃报文并向源端发送一个 ICMP 超时 (Time Exceeded) 报文。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;第五章arp协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第五章arp协议&#34;&gt;#&lt;/a&gt; 第五章【ARP 协议】&lt;/h1&gt;
 &lt;h1 id=&#34;第六章传输层协议&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第六章传输层协议&#34;&gt;#&lt;/a&gt; 第六章【传输层协议】&lt;/h1&gt;
