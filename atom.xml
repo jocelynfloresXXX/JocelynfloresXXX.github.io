@@ -975,6 +975,7 @@
 &lt;li&gt;在 TCP 的三次握手过程中，要使用 SYN 和 ACK 标识位来请求建立连接和确认建立连接。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;第七章数据转发过程&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章数据转发过程&#34;&gt;#&lt;/a&gt; 第七章【数据转发过程】&lt;/h1&gt;
+&lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;前言&lt;/summary&gt;&lt;div&gt;
 &lt;h1 id=&#34;第八章vrp基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章vrp基础&#34;&gt;#&lt;/a&gt; 第八章【VRP 基础】&lt;/h1&gt;
 &lt;h1 id=&#34;第九章命令行基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第九章命令行基础&#34;&gt;#&lt;/a&gt; 第九章【命令行基础】&lt;/h1&gt;
 &lt;h1 id=&#34;第十章文件系统基础&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十章文件系统基础&#34;&gt;#&lt;/a&gt; 第十章【文件系统基础】&lt;/h1&gt;
@@ -988,6 +989,7 @@
 &lt;h1 id=&#34;第十八章dhcp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十八章dhcp原理与配置&#34;&gt;#&lt;/a&gt; 第十八章【DHCP 原理与配置】&lt;/h1&gt;
 &lt;h1 id=&#34;第十九章ftp原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第十九章ftp原理与配置&#34;&gt;#&lt;/a&gt; 第十九章【FTP 原理与配置】&lt;/h1&gt;
 &lt;h1 id=&#34;第二十章telnet原理与配置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二十章telnet原理与配置&#34;&gt;#&lt;/a&gt; 第二十章【Telnet 原理与配置】&lt;/h1&gt;
+&lt;/div&gt;&lt;/details&gt;
 </content>
         <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
         <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
