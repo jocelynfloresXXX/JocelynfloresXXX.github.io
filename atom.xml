@@ -2009,7 +2009,7 @@
         <id>https://2memos.xyz/2021/01/21/%E6%96%B0%E5%8D%8E%E4%B8%89H3C%E5%88%B7%E9%A2%98/</id>
         <title>新华三H3C刷题</title>
         <link rel="alternate" href="https://2memos.xyz/2021/01/21/%E6%96%B0%E5%8D%8E%E4%B8%89H3C%E5%88%B7%E9%A2%98/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;写再前面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写再前面&#34;&gt;#&lt;/a&gt; 写再前面&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;写再前面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写再前面&#34;&gt;#&lt;/a&gt; 写再前面&lt;/h1&gt;
 &lt;div class=&#34;note warning&#34;&gt;
 &lt;p&gt;注意注意&lt;/p&gt;
 &lt;/div&gt;
@@ -2401,7 +2401,7 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
         <id>https://2memos.xyz/2021/01/18/Python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E7%BA%A7/</id>
         <title>Python爬虫入门到高级</title>
         <link rel="alternate" href="https://2memos.xyz/2021/01/18/Python%E7%88%AC%E8%99%AB%E5%85%A5%E9%97%A8%E5%88%B0%E9%AB%98%E7%BA%A7/"/>
-        <content type="html">&lt;link rel=&#34;stylesheet&#34; class=&#34;aplayer-secondary-style-marker&#34; href=&#34;\assets\css\APlayer.min.css&#34;&gt;&lt;script src=&#34;\assets\js\APlayer.min.js&#34; class=&#34;aplayer-secondary-script-marker&#34;&gt;&lt;/script&gt;&lt;h1 id=&#34;第一章爬虫的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章爬虫的概念&#34;&gt;#&lt;/a&gt; 第一章【爬虫的概念】&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;第一章爬虫的概念&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章爬虫的概念&#34;&gt;#&lt;/a&gt; 第一章【爬虫的概念】&lt;/h1&gt;
 &lt;p class=&#34;red&#34;&gt;1，什么是爬虫？&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;提示提示&lt;/p&gt;
