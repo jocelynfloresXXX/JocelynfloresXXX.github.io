@@ -10,8 +10,17 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Sun, 07 Mar 2021 19:49:27 +0800</pubDate>
-        <lastBuildDate>Sun, 07 Mar 2021 19:49:27 +0800</lastBuildDate>
+        <pubDate>Wed, 24 Mar 2021 00:16:52 +0800</pubDate>
+        <lastBuildDate>Wed, 24 Mar 2021 00:16:52 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://2memos.xyz/2021/03/24/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8%E5%AE%9E%E9%AA%8C/</guid>
+            <title>HCIA-Routing &amp; Switching入门实验</title>
+            <link>https://2memos.xyz/2021/03/24/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8%E5%AE%9E%E9%AA%8C/</link>
+            <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
+            <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
+            <pubDate>Wed, 24 Mar 2021 00:16:52 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://2memos.xyz/2021/03/07/IPv6%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E8%BF%87%E6%B8%A1%E4%B8%8E%E9%83%A8%E7%BD%B2/</guid>
             <title>IPv6网络基础、安全、过渡与部署</title>
@@ -33,9 +42,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/</guid>
-            <title>HCIA-Routing &amp; Switching</title>
-            <link>https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/</link>
+            <guid isPermalink="true">https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8/</guid>
+            <title>HCIA-Routing &amp; Switching入门</title>
+            <link>https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8/</link>
             <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
             <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
             <pubDate>Sun, 07 Mar 2021 13:52:40 +0800</pubDate>

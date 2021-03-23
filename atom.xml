@@ -8,7 +8,16 @@
     <author>
       <name>Manshan</name>
     </author>
-    <updated>2021-03-07T11:49:27.621Z</updated>
+    <updated>2021-03-23T16:16:52.748Z</updated>
+    <entry>
+        <id>https://2memos.xyz/2021/03/24/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8%E5%AE%9E%E9%AA%8C/</id>
+        <title>HCIA-Routing &amp; Switching入门实验</title>
+        <link rel="alternate" href="https://2memos.xyz/2021/03/24/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8%E5%AE%9E%E9%AA%8C/"/>
+        <content type="html"></content>
+        <category term="技术" scheme="https://2memos.xyz/categories/%E6%8A%80%E6%9C%AF/" />
+        <category term="HUAWEI" scheme="https://2memos.xyz/tags/HUAWEI/" />
+        <updated>2021-03-23T16:16:52.748Z</updated>
+    </entry>
     <entry>
         <id>https://2memos.xyz/2021/03/07/IPv6%E7%BD%91%E7%BB%9C%E5%9F%BA%E7%A1%80%E3%80%81%E5%AE%89%E5%85%A8%E3%80%81%E8%BF%87%E6%B8%A1%E4%B8%8E%E9%83%A8%E7%BD%B2/</id>
         <title>IPv6网络基础、安全、过渡与部署</title>
@@ -30,9 +39,9 @@
         <updated>2021-03-07T11:49:27.621Z</updated>
     </entry>
     <entry>
-        <id>https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/</id>
-        <title>HCIA-Routing &amp; Switching</title>
-        <link rel="alternate" href="https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching/"/>
+        <id>https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8/</id>
+        <title>HCIA-Routing &amp; Switching入门</title>
+        <link rel="alternate" href="https://2memos.xyz/2021/03/07/HCIA-Routing%20&amp;%20Switching%E5%85%A5%E9%97%A8/"/>
         <content type="html">&lt;h1 id=&#34;第一章传输介质简介&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章传输介质简介&#34;&gt;#&lt;/a&gt; 第一章【传输介质简介】&lt;/h1&gt;
 &lt;details class=&#34;primary&#34;&gt;&lt;summary&gt;前言&lt;/summary&gt;&lt;div&gt;
 &lt;ul&gt;
