@@ -24,9 +24,9 @@
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;[1] 常用图标：&lt;/li&gt;
+&lt;li class=&#34;red&#34;&gt;[1] 常用图标：&lt;/li&gt;
 &lt;li&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/03/24/6HBzjA.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
-&lt;li&gt;[2] 设备名称，型号与版本对应关系如下：&lt;/li&gt;
+&lt;li class=&#34;red&#34;&gt;[2] 设备名称，型号与版本对应关系如下：&lt;/li&gt;
 &lt;li&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/03/24/6HD9Bt.png&#34; alt=&#34;图片&#34;&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h1 id=&#34;第一章实验ensp搭建基础网络&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一章实验ensp搭建基础网络&#34;&gt;#&lt;/a&gt; 第一章【实验 eNSP 搭建基础网络】&lt;/h1&gt;
