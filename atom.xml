@@ -13,7 +13,12 @@
         <id>https://manshan.top/2021/04/11/SCSA%E5%AE%9E%E9%AA%8C%E9%83%A8%E5%88%86/</id>
         <title>深信服SCSA实验部分</title>
         <link rel="alternate" href="https://manshan.top/2021/04/11/SCSA%E5%AE%9E%E9%AA%8C%E9%83%A8%E5%88%86/"/>
-        <content type="html">&lt;h1 id=&#34;第一篇ipsec-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一篇ipsec-vpn解决方案&#34;&gt;#&lt;/a&gt; 第一篇【IPsec VPN 解决方案】&lt;/h1&gt;
+        <content type="html">&lt;h1 id=&#34;写在前面&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#写在前面&#34;&gt;#&lt;/a&gt; 写在前面&lt;/h1&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;注意注意&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;实验截图多，缓存慢。&lt;/p&gt;
+&lt;h1 id=&#34;第一篇ipsec-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一篇ipsec-vpn解决方案&#34;&gt;#&lt;/a&gt; 第一篇【IPsec VPN 解决方案】&lt;/h1&gt;
 &lt;h1 id=&#34;第二篇sangfor-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二篇sangfor-vpn解决方案&#34;&gt;#&lt;/a&gt; 第二篇【SANGFOR VPN 解决方案】&lt;/h1&gt;
 &lt;h1 id=&#34;第三篇上网行为组网方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三篇上网行为组网方案&#34;&gt;#&lt;/a&gt; 第三篇【上网行为组网方案】&lt;/h1&gt;
 &lt;h1 id=&#34;第四篇用户认证技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第四篇用户认证技术&#34;&gt;#&lt;/a&gt; 第四篇【用户认证技术】&lt;/h1&gt;
