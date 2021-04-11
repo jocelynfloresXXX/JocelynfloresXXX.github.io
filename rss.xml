@@ -23,7 +23,9 @@
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;注意注意&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;实验截图多，缓存慢。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;ins class=&#34;wavy&#34;&gt;实验截图多，缓存慢。&lt;/ins&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;第一篇ipsec-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一篇ipsec-vpn解决方案&#34;&gt;#&lt;/a&gt; 第一篇【IPsec VPN 解决方案】&lt;/h1&gt;
 &lt;h1 id=&#34;第二篇sangfor-vpn解决方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二篇sangfor-vpn解决方案&#34;&gt;#&lt;/a&gt; 第二篇【SANGFOR VPN 解决方案】&lt;/h1&gt;
 &lt;h1 id=&#34;第三篇上网行为组网方案&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第三篇上网行为组网方案&#34;&gt;#&lt;/a&gt; 第三篇【上网行为组网方案】&lt;/h1&gt;
