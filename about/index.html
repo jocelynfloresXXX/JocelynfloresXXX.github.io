@@ -1,55 +1,93 @@
 <p>
-<!--
- * @Author: your name
- * @Date: 2020-12-30 10:24:14
- * @LastEditTime: 2020-12-30 10:28:22
- * @LastEditors: Please set LastEditors
- * @Description: In User Settings Edit
- * @FilePath: \正方体旋转动画\index.html
--->
 <!DOCTYPE html>
-<html lang="en">
+<html>
   <head>
-    <meta charset="UTF-8">
     <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <style>
+      html,
+      body {
+        height: 100%;
+      }
 
-    <!--下雪动画-->
-    <script src="js/jquery.min.js"></script>
-    <script src="js/snow.js"></script>
+      body {
+        background-color: #000000;
+        margin: 0;
+        font-family: Helvetica, sans-serif;
+        overflow: hidden;
+      }
 
-    <link type="text/css" href="css/style.css" rel="stylesheet">
+      a {
+        color: #ffffff;
+      }
+
+ 
+      .element:hover {
+        box-shadow: 0px 0px 12px rgba(0, 255, 255, 0.75);
+        border: 1px solid rgba(127, 255, 255, 0.75);
+      }
+
+      .element img {
+        width: 140px;
+        height: 155px;
+      }
+
+      .element .number {
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        font-size: 12px;
+        color: rgba(127, 255, 255, 0.75);
+      }
+
+      .show_info .info_my .info_mem > div {
+        text-align: left;
+      }
+
+      .show_info .info_my .info_mem > div.nickname {
+        max-width: 120px;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+    </style>
+    <!-- 荧光css -->
+    <link rel="stylesheet" href="css/style.css">
   </head>
 
   <body>
-    <div class="snow-container">
-      <div class="ziti">
-        <span> ❤各位新年快乐呀！！ </span>
+    <script src="https://www.jq22.com/jquery/jquery-2.1.1.js"></script>
+    <script src="https://threejs.org/build/three.js"></script>
+    <!-- 荧光S -->
+    <audio controls autoplay><source src="mp3/app.mp3"></audio>
+    <!-- 背景图 -->
+    <!-- <div id="background" class="wall"></div> -->
+    <!-- 荧光点 -->
+    <div id="midground" class="wall"></div>
+    <div id="foreground" class="wall"></div>
+    <div id="top" class="wall"></div>
+    <!-- 荧光E -->
+    <div id="container"></div>
+    <!-- 文字弹窗 -->
+    <div class="show_info animated" style="display: none">
+      <div class="info_my">
+        <img data-src="img/c1.png">
+        <div class="info_mem">
+          <div class="nickname">2021牛转钱坤!</div>
+          <div class="id"></div>
+          <div class="vote">新年快乐!</div>
+        </div>
       </div>
-
-      <div class="dongtai">
-        <ul>
-          <li>
-            <img data-src="image/1.png" alt>
-          </li>
-          <li>
-            <img data-src="image/2.png" alt>
-          </li>
-          <li>
-            <img data-src="image/3.png" alt>
-          </li>
-          <li>
-            <img data-src="image/4.png" alt>
-          </li>
-          <li>
-            <img data-src="image/5.png" alt>
-          </li>
-          <li>
-            <img data-src="image/6.png" alt>
-          </li>
-        </ul>
+      <div class="intro">
+        摘一千颗星照亮你的前程，种一千朵玫瑰陶醉你的心情，折一千只纸鹤逗你时刻开心，找一千种理由希望你无忧无愁。提前祝您新年快乐!
       </div>
     </div>
+   ...
+ 完整代码在下方↓公众号获取
+
   </body>
 </html>
+
 
 </p>
