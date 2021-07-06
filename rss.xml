@@ -10,8 +10,15 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 06 Jul 2021 08:49:40 +0800</pubDate>
-        <lastBuildDate>Tue, 06 Jul 2021 08:49:40 +0800</lastBuildDate>
+        <pubDate>Tue, 06 Jul 2021 17:33:08 +0800</pubDate>
+        <lastBuildDate>Tue, 06 Jul 2021 17:33:08 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://manshan.top/2021/07/06/%E6%B7%B1%E4%BF%A1%E6%9C%8DWOC%E9%85%8D%E7%BD%AE/</guid>
+            <title></title>
+            <link>https://manshan.top/2021/07/06/%E6%B7%B1%E4%BF%A1%E6%9C%8DWOC%E9%85%8D%E7%BD%AE/</link>
+            <pubDate>Tue, 06 Jul 2021 17:33:08 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://manshan.top/2021/07/06/%E5%AE%9E%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
             <title>实习日记</title>
@@ -128,7 +135,7 @@
 &lt;p&gt;如下如下&lt;/p&gt;
 &lt;/div&gt;
 &lt;ul&gt;
-&lt;li&gt;POC 测试（即 proof of Concept），是业界流行的针对客户具体业务应用而开展的实验性测试，用户根据业务需求所需的指标项目（功能和性能），从而进行一系列的测算和验证活动，业界内用来通过 POC 测试来验证供应商的能力。&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;4，POC 测试的目标是：&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
@@ -623,6 +630,44 @@
 &lt;li&gt;3. 源地址策略路由，通过直接填写路由的下一跳，可以实现从设备非 WAN 属性的接口转发数据。&lt;/li&gt;
 &lt;li&gt;4. 多线路负载路由选择的接口，必须开启链路故障检测功能，才能实现线路故障自动切换。&lt;/li&gt;
 &lt;li&gt;5. 多条策略路由，按照从上往下的顺序匹配，一旦匹配到某条策略路由后，不再往下匹配。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;2021-07-07&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2021-07-07&#34;&gt;#&lt;/a&gt; 2021-07-07&lt;/h1&gt;
+&lt;h1 id=&#34;合作伙伴-l2学习地图-安全方向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#合作伙伴-l2学习地图-安全方向&#34;&gt;#&lt;/a&gt; 合作伙伴 - L2 学习地图 - 安全方向&lt;/h1&gt;
+&lt;h2 id=&#34;安全威胁和挑战&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全威胁和挑战&#34;&gt;#&lt;/a&gt; 安全威胁和挑战&lt;/h2&gt;
+&lt;p&gt;1，威胁网络安全的主要因素：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;系统漏洞和应用软件漏洞难以避免&lt;/li&gt;
+&lt;li&gt;网络的开放性&lt;/li&gt;
+&lt;li&gt;网络管理制度存在缺失&lt;/li&gt;
+&lt;li&gt;网络对应安全策略缺乏&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;安全发展趋势&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#安全发展趋势&#34;&gt;#&lt;/a&gt; 安全发展趋势&lt;/h2&gt;
+&lt;p&gt;1，信息安全发展的四个阶段：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;1，通信保密阶段&lt;/li&gt;
+&lt;li&gt;2，计算机安全阶段&lt;/li&gt;
+&lt;li&gt;3，信息技术安全阶段&lt;/li&gt;
+&lt;li&gt;4，信息保障阶段&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;2，智安全能力模型 - APDRO&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;智能&lt;/li&gt;
+&lt;li&gt;防御&lt;/li&gt;
+&lt;li&gt;检测&lt;/li&gt;
+&lt;li&gt;响应&lt;/li&gt;
+&lt;li&gt;运营&lt;/li&gt;
+&lt;li&gt;PDR：从防御能力向检测和响应能力增强。&lt;/li&gt;
+&lt;li&gt;智能：提升自动化能力应对大量未知威胁。&lt;/li&gt;
+&lt;li&gt;运营：让安全产品用起来，管理制度落地。&lt;/li&gt;
 &lt;/ul&gt;
  ]]></description>
         </item>
@@ -9538,14 +9583,6 @@ D. 如果找到匹配项，且表项对应的端口属于报文对应的 VLAN，
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，端口聚合：带宽加倍。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，捆绑接口&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;以太网捆绑&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，把多条线路进行叠加使用。1000*2&lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt;2000m。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，冗余。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;，注意：线路最好偶数使用。否则，负载不均等。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;，查看捆绑情况命令&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;CISCO&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;：sh etherchannel summary。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;，负载方式：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，数据包&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;交换接口上使用最多，均等分重组的问题，但线路的快慢会受影响&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，数据流&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;路由器最多使用，现网使用最多，不均等分，五因素：1，源ip,&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    &lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;,目的ip，3，源端口，4，目的端口，5，协议号&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;6&lt;/span&gt;，协议：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，动态：LACP&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;共有协议&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;，PAGP&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;思科私有&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，静态&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;推荐&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;：LACP静态。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;7&lt;/span&gt;，配置命令：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，静态&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;CISCO&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    int range g0/1 - &lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    channel-group &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; mode on &lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    &lt;span class=&#34;token function&#34;&gt;shutdown&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    【配置完成生成port &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;端口】&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    int port &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    sw mode ac&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    sw acc vlan &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	【注：两端都配置完成之后再启用接口，防止接口起不来】&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，HW配置命令:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    &lt;span class=&#34;token function&#34;&gt;clear&lt;/span&gt; configuration interface g0/0/1&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;清除接口以前的配置&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		port-group group-member g0/0/1 g0/0/2（要配置的接口）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		【注：两端都要配置】&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;28&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		int eth-trunk &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;（创建trunk1端口）&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;29&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		int g0/0/1&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;加入捆绑口1&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;30&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		eth-trunk &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;31&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		int g0/0/2&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;32&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		eth-trunk &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;33&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;8&lt;/span&gt;，什么是堆叠：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;34&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    把两台物理设备变为一台设备。二层交换机不能堆叠，&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;35&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	【注：堆叠+捆绑去STP！！ ！堆叠必须与捆绑在一起使用】&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;第七章首跳冗余协议hsrpvrrp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第七章首跳冗余协议hsrpvrrp&#34;&gt;#&lt;/a&gt; 第七章【首跳冗余协议 HSRP，VRRP】&lt;/h1&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，与冗余有关联。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，冗余概念：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，能通。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，故障情况下稳定使用，如：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，单线路故障&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;解决&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;——多线路捆绑。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	    &lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，单台设备故障&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;解决&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;——堆叠或VRRP。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;，电源——双电源&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;市电，UPS&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;，服务器&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;解决&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;——集群&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;LB负载均衡器&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;分法数据&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		前端应用&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;多台服务器&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;，数据库&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;主备冗余&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;，存储&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;阵列，多个磁盘柜&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;，机房冗余&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;解决&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;：A机房，B机房。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;，VRRP配置&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;HW&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;:&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    int vlan &lt;span class=&#34;token number&#34;&gt;10&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	vrrp vrid &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; virtual-ip &lt;span class=&#34;token number&#34;&gt;172.16&lt;/span&gt;.10.254&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	vrrp vrid  &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; priority &lt;span class=&#34;token number&#34;&gt;101&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;配置优先级，越大越优先。&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	【注】vrid：1，一个网段占用一个vrid。2，虚拟IP的MAC地址是根据vrid生产的。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	查看的命令：dis vrrp brief&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;第八章acl访问控制列表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章acl访问控制列表&#34;&gt;#&lt;/a&gt; 第八章【ACL (访问控制列表)】&lt;/h1&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;span&gt;h&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，ACL层面：&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;，控制层面：路由。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，转发层面：数据。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;，作用：过滤/抓取数据。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;，动作：允许-permit。拒绝-deny。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://manshan.top/2021/01/10/hello-world/</guid>
-            <title>Welcome</title>
-            <link>https://manshan.top/2021/01/10/hello-world/</link>
-            <pubDate>Sun, 10 Jan 2021 20:03:25 +0800</pubDate>
-            <description><![CDATA[ &lt;p class=&#34;rainbow&#34;&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is my second blog post.Author:Ruri Shimotsuki @優萌初華. If you get any problems when using Hexo, you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2pvY2VseW5mbG9yZXNYWFg=&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
- ]]></description>
         </item>
     </channel>
 </rss>
