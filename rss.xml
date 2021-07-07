@@ -17,7 +17,30 @@
             <title></title>
             <link>https://manshan.top/2021/07/06/%E6%B7%B1%E4%BF%A1%E6%9C%8DWOC%E9%85%8D%E7%BD%AE/</link>
             <pubDate>Tue, 06 Jul 2021 17:33:08 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;p&gt;1，WOC 部署模式介绍：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;1，WOC 加速设备的主要的部署模式为：网关，网桥，单臂模式。&lt;/li&gt;
+&lt;li&gt;2，服务模式有：只启用加速模式，启用 VPN + 加速模式。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;1.1 网关模式：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;1，将设备网关部署，可能会对当前的整体网络有较大的改动，网关模式部署设备具备代理内网上网的功能，同时设备具备防火墙模块，可对网络做安全防护。&lt;/li&gt;
+&lt;li&gt;2，如图：&lt;/li&gt;
+&lt;li&gt;&lt;img data-src=&#34;https://z3.ax1x.com/2021/07/06/RTQBg1.png&#34; alt=&#34;T&#34;&gt;&lt;/li&gt;
+&lt;li&gt;3，注意事项：&lt;/li&gt;
+&lt;li&gt;WAN 口如需绑定其他 IP 地址，需要跟 WAN 口配置的 IP 地址在同一个网段，否则绑定的 IP 地址可能无法正常使用。&lt;/li&gt;
+&lt;li&gt;内网如有多个网段，需在 WOC 设备上添加回包路由。&lt;/li&gt;
+&lt;li&gt;4，操作步骤：&lt;/li&gt;
+&lt;li&gt;①：登录 WOC 控制台，【系统】——【部署设置】——【网络接口】选择【网关模式】配置接口 IP 地址&lt;/li&gt;
+&lt;li&gt;②：由于网关部署，设备需要做代理上网配置，【防火墙】——【NAT 设置】——【代理上网网段】——【新建】代理上网配置，配置需代理上网的网段。若内网是三层环境则主要添加内网回包路由，【路由设置】——【静态路由】新建路由，目的 IP 是内网网段的网络号，子网掩码是内网网络段的网络号&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
         </item>
         <item>
             <guid isPermalink="true">https://manshan.top/2021/07/06/%E5%AE%9E%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
