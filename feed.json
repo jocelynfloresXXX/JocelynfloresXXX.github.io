@@ -20,10 +20,13 @@
         {
             "id": "https://manshan.top/2021/07/07/HCIE/",
             "url": "https://manshan.top/2021/07/07/HCIE/",
-            "title": "",
+            "title": "HCIE",
             "date_published": "2021-07-07T08:31:59.851Z",
             "content_html": "<h1 id=\"mac地址表\"><a class=\"anchor\" href=\"#mac地址表\">#</a> MAC 地址表</h1>\n<h2 id=\"mac地址表的组成\"><a class=\"anchor\" href=\"#mac地址表的组成\">#</a> MAC 地址表的组成</h2>\n<p>1，组成：</p>\n<div class=\"note info\">\n<p>如下</p>\n</div>\n<ul>\n<li>1，动态表项：</li>\n<li>由接口通过报文中的源 MAC 地址学习获得，表向可老化，默认老化时间 300 秒。</li>\n<li>在系统复位，接口板热插拔或接口板复位后，动态表项会丢失。</li>\n<li>2，静态表项：</li>\n<li>由用户手工配置，并下发到各接口板，表项不可老化。</li>\n<li>在系统复位，接口板热插拔或接口板复位后，动态表项不会丢失。</li>\n<li>3，黑洞表项：</li>\n<li>由用户手工配置，并下发到各接口板，表项不可老化。</li>\n<li>配置黑洞 MAC 地址后，源 MAC 地址或目的 MAC 地址是该 MAC 的报文将会丢弃。</li>\n<li>4，查看 MAC 表：</li>\n<li>命令： dis mac-address。</li>\n<li>5，MAC 地址表的配置：</li>\n<li>配置静态 MAC 表项命令：mac-address static 0011-2233-4455 g0/0/1 vlan 1</li>\n<li>配置黑洞 MAC 表项命令：mac-address blackhole 00aa-bbcc-ddee</li>\n<li>配置动态 MAC 表项的老化时间命令：mac-address aging-time 400</li>\n</ul>\n<p>2，配置安全 MAC 功能：</p>\n<div class=\"note info\">\n<p>如下</p>\n</div>\n<ul>\n<li>1，使能端口安全功能命令：</li>\n<li>port-security enable</li>\n<li>2，配置端口安全保护动作命令：</li>\n<li>port-security protect-action shutdown</li>\n<li>3，配置端口安全动态 MAC 学习限制数量命令：</li>\n<li>port-security max-mac-num 5</li>\n<li>4，配置动态学习的 mac 地址老化时间命令：</li>\n<li>port-security aging-time 1000</li>\n</ul>\n<p>3，配置 Sticky MAC 功能：</p>\n<div class=\"note info\">\n<p>如下如下</p>\n</div>\n<ul>\n<li>1，使能端口安全功能命令：</li>\n<li>porrt-security enable</li>\n<li>2，使能接口 Sticky MAC 功能：</li>\n<li>port-security mac-address sticky</li>\n</ul>\n<p>4，MAC 地址漂移：</p>\n<div class=\"note info\">\n<p>如下</p>\n</div>\n<ul>\n<li>产生现象：设备环路，MAC 地址攻击。</li>\n<li>1，概念：</li>\n<li>MAC 地址漂移是指设备上一个 VLAN 内有两个端口学习到同一个 MAC 地址，后学习到的 MAC 地址表项覆盖原 MAC 地址表项的现象。</li>\n<li>2，MAC 地址漂移避免机制：</li>\n<li>提高接口 MAC 地址学习优先级。</li>\n<li>不允许相同优先级的接口发生 MAC 地址表项覆盖。</li>\n</ul>\n<p>5，MAC 地址防漂移配置：</p>\n<div class=\"note info\">\n<p>如下</p>\n</div>\n<ul>\n<li>1，配置接口 MAC 地址学习优先级命令 (默认情况下接口优先级为 0)：</li>\n<li>mac-learning priority 3</li>\n<li>2，配置不允许相同优先级接口 MAC 地址漂移命令：</li>\n<li>undo mac-learning priority 3 allow-flapping</li>\n<li>3，配置全局 MAC 地址漂移检测命令：</li>\n<li>mac-address flapping detection</li>\n<li>4，配置基于 VLAN 的 MAC 地址漂移检测命令：</li>\n<li>vlan 2</li>\n<li>loop-detect eth-loop block-time 100 retry-times 3</li>\n</ul>\n<h1 id><a class=\"anchor\" href=\"#\">#</a> </h1>\n",
-            "tags": []
+            "tags": [
+                "IE",
+                "IE"
+            ]
         },
         {
             "id": "https://manshan.top/2021/07/06/%E5%AE%9E%E4%B9%A0%E7%AC%94%E8%AE%B0/",
@@ -74,7 +77,7 @@
             "url": "https://manshan.top/2021/05/23/%E5%8D%8E%E4%B8%BAHCIA%E6%95%B0%E9%80%9A/",
             "title": "华为HCIA数通",
             "date_published": "2021-05-23T15:49:39.211Z",
-            "content_html": "<h1 id=\"第一次课\"><a class=\"anchor\" href=\"#第一次课\">#</a> 第一次课</h1>\n",
+            "content_html": "<h1 id=\"第一次课\"><a class=\"anchor\" href=\"#第一次课\">#</a> 第一次课</h1>\n<h2 id=\"传输层介质\"><a class=\"anchor\" href=\"#传输层介质\">#</a> 传输层介质</h2>\n<h1 id=\"第二次课\"><a class=\"anchor\" href=\"#第二次课\">#</a> 第二次课</h1>\n",
             "tags": [
                 "技术",
                 "华为"

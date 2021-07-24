@@ -101,8 +101,10 @@
         </item>
         <item>
             <guid isPermalink="true">https://manshan.top/2021/07/07/HCIE/</guid>
-            <title></title>
+            <title>HCIE</title>
             <link>https://manshan.top/2021/07/07/HCIE/</link>
+            <category term="IE" scheme="https://manshan.top/categories/IE/" />
+            <category term="IE" scheme="https://manshan.top/tags/IE/" />
             <pubDate>Wed, 07 Jul 2021 16:31:59 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;mac地址表&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mac地址表&#34;&gt;#&lt;/a&gt; MAC 地址表&lt;/h1&gt;
 &lt;h2 id=&#34;mac地址表的组成&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#mac地址表的组成&#34;&gt;#&lt;/a&gt; MAC 地址表的组成&lt;/h2&gt;
@@ -3994,6 +3996,8 @@ SNMP 是基于 TCP/IP 协议族的网络管理标准，是一种在 IP 网络中
             <category term="华为" scheme="https://manshan.top/tags/%E5%8D%8E%E4%B8%BA/" />
             <pubDate>Sun, 23 May 2021 23:49:39 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第一次课&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第一次课&#34;&gt;#&lt;/a&gt; 第一次课&lt;/h1&gt;
+&lt;h2 id=&#34;传输层介质&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#传输层介质&#34;&gt;#&lt;/a&gt; 传输层介质&lt;/h2&gt;
+&lt;h1 id=&#34;第二次课&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第二次课&#34;&gt;#&lt;/a&gt; 第二次课&lt;/h1&gt;
  ]]></description>
         </item>
         <item>
