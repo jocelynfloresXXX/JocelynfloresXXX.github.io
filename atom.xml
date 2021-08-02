@@ -4410,6 +4410,17 @@
 &lt;li&gt;在 VDC【系统设置】——【系统配置】——【aCenter 管理】里，添加 aCenter 信息。&lt;/li&gt;
 &lt;li&gt;注：如果 VDC 部署于总部，直接填写 aCenter 的 Lan 口地址和 443 端口，如果位于分支，则需要填写 aCenter 映射后的出口 IP 和端口。&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;5，桌面云巡检注意事项：&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;如下&lt;/p&gt;
+&lt;/div&gt;
+&lt;ul&gt;
+&lt;li&gt;VMP：&lt;/li&gt;
+&lt;li&gt;(1) 检查 VMP 平台是否存在异常日记，【管理】——【日志与警告】。&lt;/li&gt;
+&lt;li&gt;(2) 检查 VMP 存储空间是否足够，如果存储空间超过 90%，需要尽快扩容或者其他方案。&lt;/li&gt;
+&lt;li&gt;(3) 检查 VMP 主机 CPU，内存使用率是否正常。超过 85%，可能导致虚拟机卡慢。&lt;/li&gt;
+&lt;li&gt;VDC&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h1 id=&#34;07-07补充&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#07-07补充&#34;&gt;#&lt;/a&gt; 07-07 补充&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;转载于：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2NzZG4xMDA4NjExMC9hcnRpY2xlL2RldGFpbHMvOTAzMTQwNzA=&#34;&gt;https://blog.csdn.net/csdn10086110/article/details/90314070&lt;/span&gt;&lt;/li&gt;
